@@ -7,10 +7,8 @@
     <img src="https://komarev.com/ghpvc/?username=lststrdst&style=for-the-badge&color=ff3b9d&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
-
-> Превращаю ручной труд в автоматизированные системы, которые просто работают.
 >
-> `if it repeats twice, automate it.`
+> `if it repeats twice, just automate it.`
 
 ## 🧠 Чем занимаюсь
 
