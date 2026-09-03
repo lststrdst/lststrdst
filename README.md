@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>lststrdst // вайбовый тип</h1>
+  <h1>lststrdst // очень много сваги</h1>
   <p><b>IT infrastructure · automation · data · AI · networking</b></p>
   <p>
     <a href="https://github.com/lststrdst"><img src="https://img.shields.io/badge/GitHub-lststrdst-ff3b9d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
