@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>lststrdst // вайбовый разраб</h1>
+  <h1>lststrdst // вайбовый тип</h1>
   <p><b>IT infrastructure · automation · data · AI · networking</b></p>
   <p>
     <a href="https://github.com/lststrdst"><img src="https://img.shields.io/badge/GitHub-lststrdst-ff3b9d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -8,7 +8,7 @@
   </p>
 </div>
 
-> Превращаю ручной IT-больничек в автоматизированные системы, которые просто работают.
+> Превращаю ручной труд в автоматизированные системы, которые просто работают.
 >
 > `if it repeats twice, automate it.`
 
@@ -99,5 +99,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lststrdst&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF3B9D&line=FF3B9D&point=FFE66D&area=true" alt="GitHub activity graph" />
 </p>
-
-<p align="center"><i>вайб: разработчик, который случайно стал DevOps, data engineer и сетевиком</i> 🧃</p>
