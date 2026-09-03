@@ -82,6 +82,14 @@
 - [BI Platform](https://github.com/lststrdst/bi-platform-superset-public) — Superset, ClickHouse, dbt и observability-слой.
 - [DataLens Platform](https://github.com/lststrdst/bi-platform-datalens) — контейнерная BI-платформа для аналитических сценариев.
 
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="./profile/github-snake.svg" />
+</picture>
+
 ## 📊 Сейчас на профиле
 
 <p align="center">
