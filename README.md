@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Infrastructure / Platform Engineer · Backend & Automation</h1>
+  <h1>lststrdst // очень много сваги</h1>
   <p><b>Backend & Automation · данные · сети · Windows · Linux</b></p>
   <p>
     <a href="https://github.com/lststrdst"><img src="https://img.shields.io/badge/GitHub-lststrdst-ff3b9d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -7,10 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=lststrdst&style=for-the-badge&color=ff3b9d&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
-
-> Превращаю ручной IT-больничек в автоматизированные системы, которые просто работают.
->
-> if it repeats twice, just automate it.
 
 ## 🧠 Позиционирование
 
@@ -22,16 +18,16 @@ Infrastructure / Platform Engineer с сильным Backend, Automation и DevO
 PowerShell · Python · JavaScript · Node.js · Bash · SQL · HTML5 · CSS3
 
 **Backend и интеграции**  
-Express · FastAPI · REST API · HTTPX · Pydantic · Uvicorn · Aiogram · BullMQ · Redis · SMTP/IMAP · YooKassa
+Express · FastAPI · REST API · HTTPX · Pydantic · SQLAlchemy · Uvicorn · Aiogram · BullMQ · SMTP/IMAP · YooKassa
 
 **Данные, BI и observability**  
-PostgreSQL · MySQL · Redis · ClickHouse · Apache Superset · dbt · Yandex DataLens · Grafana · Zabbix
+PostgreSQL · MySQL · Redis · ClickHouse · Apache Superset · dbt · Yandex DataLens · Prometheus · Grafana · Zabbix
 
 **Инфраструктура и delivery**  
-Windows Server · Linux · Docker · Docker Compose · Nginx · systemd · cron · SSH/SCP · GitHub Actions · GHCR/Buildx · UFW · staging/production · rollback · backup/restore
+Windows Server · Linux · Docker · Docker Compose · Nginx · systemd · GitHub Actions · GHCR/Buildx · staging/production · rollback · backup/restore
 
 **Windows-инфраструктура**  
-AD DS · GPO · WSUS · ADFS · gMSA · WMI/CIM · DNS · Task Scheduler · Snipe-IT automation
+AD DS · GPO · WSUS · ADFS · gMSA · WMI/CIM · Task Scheduler · Snipe-IT automation
 
 **Сети, виртуализация и облака**  
 TCP/IP · DNS · DHCP · VLAN · NAT · Routing · firewall · Cisco · MikroTik · UniFi (база) · OpenWrt/QWRT · Wi-Fi 7/MLO · VirtualBox · Proxmox · VMware vSphere (ESXi · vCenter) · VMware Cloud
@@ -40,20 +36,23 @@ TCP/IP · DNS · DHCP · VLAN · NAT · Routing · firewall · Cisco · MikroTik
 Xray-core · VLESS · REALITY · XHTTP · sing-box · Hysteria2 · WireGuard/AmneziaWG · OpenVPN · Squid · SOCKS5 · TLS · ACME · Let's Encrypt
 
 **Безопасность и надёжность**  
-AES-GCM · HMAC-SHA256 · token-based access · secrets/env · ACL · idempotency · locking · secret scanning · dependency audit · backup/restore · disaster recovery
+AES-GCM · HMAC-SHA256 · token-based access · secrets/env · ACL · idempotency · locking · secret scanning · dependency audit · disaster recovery
 
 **Тестирование и дизайн**  
-pytest · node --test · Ruff · npm scripts · smoke/regression/syntax tests · Figma → code · responsive UI · browser visual QA
+pytest · node --test · Ruff · ESLint · npm scripts · smoke/regression/syntax tests · Figma → code · responsive UI · browser visual QA
 
 **ОС и админ-инструменты**  
-Ubuntu · Debian · CentOS · RSAT · Event Viewer · Windows Security Logs · auditpol · Get-WinEvent · Graylog
+Ubuntu · Debian · CentOS · RSAT · Graylog
 
 **Почта, VoIP и self-hosted**  
 Exchange · Postfix · Dovecot · Mailcow · Zimbra · DavMail · Asterisk/FreePBX · Yealink · IIS · WebSocket
 
+**Web / edge (вторичный стек)**  
+TypeScript · React · Next.js · Vite · Tailwind CSS · Cloudflare Workers · Wrangler · D1 · R2 · Miniflare
+
 ### Знакомо / лаборатории
 
-Kubernetes · Ansible · Helm · Proxmox lab · VirtualBox lab
+Kubernetes · Ansible · Helm
 
 ### Изучаю
 
@@ -79,5 +78,3 @@ Ollama · Qwen · RAG · semantic search
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lststrdst&theme=radical&locale=ru" alt="GitHub streak" />
 </p>
-
-<p align="center"><i>вайб: разработчик, который случайно стал DevOps, data engineer и сетевиком 🧃</i></p>
