@@ -10,7 +10,7 @@
 
 ## 🧠 Позиционирование
 
-Infrastructure / Platform Engineer с сильным Backend, Automation и DevOps-уклоном. Full-stack — дополнительная грань, а не основной ярлык. Практический опыт: Windows/AD-инфраструктура для 250+ рабочих мест, self-hosted сервисы, VPN и удалённый доступ.
+Infrastructure / Platform Engineer с сильным Backend, Automation и DevOps-уклоном. переодически Full-stack, а не основной стек. Практический опыт: Windows/AD-инфраструктура для 250+ рабочих мест, self-hosted сервисы, VPN и удалённый доступ.
 
 ## 🛠 Технологический стек
 
