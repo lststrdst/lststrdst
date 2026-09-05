@@ -90,7 +90,3 @@ Ollama · Qwen · RAG · semantic search
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
   <img alt="GitHub contribution snake" src="./profile/github-snake.svg" />
 </picture>
-
----
-
-© lststrdst
