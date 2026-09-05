@@ -14,41 +14,59 @@ Infrastructure / Platform Engineer с сильным Backend, Automation и DevO
 
 ## 🛠 Технологический стек
 
-**Языки и автоматизация**  
-PowerShell · Python · JavaScript · Node.js · Bash · SQL · HTML5 · CSS3
+### Инфраструктура и виртуализация
 
-**Backend и интеграции**  
-Express · FastAPI · REST API · HTTPX · Pydantic · SQLAlchemy · Uvicorn · Aiogram · BullMQ · SMTP/IMAP · YooKassa
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker,nginx,githubactions&theme=dark" height="44" alt="Windows Server, Linux, Docker, Nginx, GitHub Actions" />
+</p>
 
-**Данные, BI и observability**  
-PostgreSQL · MySQL · Redis · ClickHouse · Apache Superset · dbt · Yandex DataLens · Prometheus · Grafana · Zabbix
+Windows Server · Linux · Docker / Compose · Nginx · GitHub Actions  
+VMware vSphere (ESXi · vCenter) · VMware Cloud · Proxmox  
+AD DS · GPO · ADFS · WSUS · gMSA · Snipe-IT
 
-**Инфраструктура и delivery**  
-Windows Server · Linux · Docker · Docker Compose · Nginx · systemd · GitHub Actions · GHCR/Buildx · staging/production · rollback · backup/restore
+### Разработка и автоматизация
 
-**Windows-инфраструктура**  
-AD DS · GPO · WSUS · ADFS · gMSA · WMI/CIM · Task Scheduler · Snipe-IT automation
+<p>
+  <img src="https://skillicons.dev/icons?i=powershell,py,bash,js,nodejs,fastapi,express&theme=dark" height="44" alt="PowerShell, Python, Bash, JavaScript, Node.js, FastAPI, Express" />
+</p>
 
-**Сети, виртуализация и облака**  
-TCP/IP · DNS · DHCP · VLAN · NAT · Routing · firewall · Cisco · MikroTik · UniFi (база) · OpenWrt/QWRT · Wi-Fi 7/MLO · VirtualBox · Proxmox · VMware vSphere (ESXi · vCenter) · VMware Cloud
+PowerShell · Python · Bash · JavaScript · Node.js · SQL  
+FastAPI · Express · SQLAlchemy · Aiogram · BullMQ
 
-**Безопасные сети**  
-Xray-core · VLESS · REALITY · XHTTP · sing-box · Hysteria2 · WireGuard/AmneziaWG · OpenVPN · Squid · SOCKS5 · TLS · ACME · Let's Encrypt
+### Данные и BI
 
-**Безопасность и надёжность**  
-AES-GCM · HMAC-SHA256 · token-based access · secrets/env · ACL · idempotency · locking · secret scanning · dependency audit · disaster recovery
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="44" alt="PostgreSQL, MySQL, Redis" />
+</p>
 
-**Тестирование и дизайн**  
-pytest · node --test · Ruff · ESLint · npm scripts · smoke/regression/syntax tests · Figma → code · responsive UI · browser visual QA
+PostgreSQL · MySQL · Redis · ClickHouse · Apache Superset · dbt · Yandex DataLens
 
-**ОС и админ-инструменты**  
-Ubuntu · Debian · CentOS · RSAT · Graylog
+### Мониторинг и логирование
 
-**Почта, VoIP и self-hosted**  
-Exchange · Postfix · Dovecot · Mailcow · Zimbra · DavMail · Asterisk/FreePBX · Yealink · IIS · WebSocket
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="44" alt="Prometheus, Grafana" />
+</p>
 
-**Web / edge (вторичный стек)**  
-TypeScript · React · Next.js · Vite · Tailwind CSS · Cloudflare Workers · Wrangler · D1 · R2 · Miniflare
+Prometheus · Grafana · Zabbix · Graylog
+
+### Сети и VPN
+
+Cisco · MikroTik · UniFi (база) · OpenWrt / QWRT · Wi-Fi 7 / MLO  
+Xray-core (VLESS · REALITY · XHTTP) · sing-box · Hysteria2 · WireGuard / AmneziaWG · OpenVPN
+
+### Почта и телефония
+
+Exchange · Postfix / Dovecot · Mailcow · Zimbra · Asterisk / FreePBX
+
+### Web и дизайн · дополнительный стек
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,workers,figma&theme=dark" height="44" alt="TypeScript, React, Next.js, Vite, Tailwind CSS, Cloudflare Workers, Figma" />
+</p>
+
+TypeScript · React · Next.js · Vite · Tailwind CSS · Cloudflare Workers (D1 · R2) · Figma
+
+**Тестирование:** pytest · node --test · Ruff · ESLint
 
 ### Знакомо / лаборатории
 
