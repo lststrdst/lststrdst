@@ -75,10 +75,3 @@ Kubernetes · Ansible · Helm
 ### Изучаю
 
 Ollama · Qwen · RAG · semantic search
-
-## 🚀 Проекты
-
-- [SnipeIT Inventory Agent](https://github.com/lststrdst/snipeit-inventory-agent-public) — PowerShell-агент для Windows-инвентаризации.
-- [SnipeIT Inventory Gateway](https://github.com/lststrdst/snipeit-inv-mailgateway-public) — HTTPS + SMTP/IMAP relay с очередью, дедупликацией и шифрованием.
-- [BI Platform](https://github.com/lststrdst/bi-platform-superset-public) — Superset, ClickHouse, dbt и observability-слой.
-- [QWRT Wi-Fi 7 Lab](https://github.com/lststrdst/qwrt-be7000-wifi7-lab) — OpenWrt/QWRT, Wi-Fi 7/MLO, DNS/DHCP и сетевые лабораторные сценарии.
