@@ -24,8 +24,17 @@
   </style>
 
   <rect x="1" y="1" width="958" height="358" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <path d="M32 37h9l7-12 7 12h9l-16 20z" fill="#ff3b9d"/>
-  <text x="78" y="49" fill="#f0f6fc" font-size="27" font-weight="750" letter-spacing="2">TALON</text>
+  <svg x="30" y="20" width="44" height="44" viewBox="0 0 128 128" aria-hidden="true">
+    <rect width="128" height="128" rx="26" fill="#15201D"/>
+    <path fill="#AAFFCE" d="
+      M24 73C26 51 48 28 78 24
+      C60 33 51 45 47 58C43 70 35 79 22 82C24 79 25 76 24 73Z
+      M41 85C43 63 65 40 95 36
+      C77 45 68 57 64 70C60 82 52 91 39 94C41 91 42 88 41 85Z
+      M58 97C60 75 82 52 112 48
+      C94 57 85 69 81 82C77 94 69 103 56 106C58 103 59 100 58 97Z"/>
+  </svg>
+  <text x="88" y="49" fill="#f0f6fc" font-size="27" font-weight="750" letter-spacing="2">TALON</text>
   <rect x="628" y="25" width="302" height="34" rx="17" fill="#1b2030"/>
   <text x="779" y="47" fill="#b1bac4" font-size="16" text-anchor="middle">Пример рабочего процесса</text>
 
