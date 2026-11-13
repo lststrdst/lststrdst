@@ -18,7 +18,7 @@ Infrastructure / Platform Engineer с фокусом на backend-разрабо
 
 | Проект | Что делает |
 | --- | --- |
-| [Talon](https://github.com/lststrdst/talon) | Плагин для Codex: разработка, независимый QA и подготовка запуска. |
+| <img src="https://raw.githubusercontent.com/lststrdst/talon/main/plugins/talon/assets/talon.png" alt="" width="28" height="28" /> [Talon](https://github.com/lststrdst/talon) | Плагин для Codex: разработка, независимый QA и подготовка запуска. |
 | [NETSCOPE](https://github.com/lststrdst/netscope-firmware) | Интерфейс и инструменты для Xiaomi BE7000 на QWRT: анализ трафика и PCAP, настройка VPN и лаборатория Wi-Fi 7 / MLO. |
 | [SnipeIT Inventory Agent](https://github.com/lststrdst/snipeit-inventory-agent-public) | PowerShell-агент для инвентаризации Windows и передачи данных в Snipe-IT. |
 | [SnipeIT Inventory Gateway](https://github.com/lststrdst/snipeit-inv-mailgateway-public) | Шлюз инвентаризации: HTTPS, резервная доставка через SMTP/IMAP, очередь и отчёты. |
