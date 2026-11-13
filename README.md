@@ -10,7 +10,16 @@
 
 ## 🧠 Позиционирование
 
-Infrastructure / Platform Engineer с сильным Backend, Automation и DevOps-уклоном. переодически Full-stack. Практический опыт: Windows/AD-инфраструктура для 250+ рабочих мест, self-hosted сервисы, VPN и удалённый доступ.
+Infrastructure / Platform Engineer с фокусом на backend-разработку, автоматизацию и DevOps. При необходимости беру full-stack задачи. Практический опыт: Windows/AD-инфраструктура для 250+ рабочих мест, self-hosted сервисы, VPN и удалённый доступ.
+
+## 🚀 Проекты
+
+| Проект | Что делает |
+| --- | --- |
+| [Talon](https://github.com/lststrdst/talon) | Плагин для Codex: разработка, независимый QA и подготовка запуска. |
+| [NETSCOPE](https://github.com/lststrdst/netscope-firmware) | Интерфейс и инструменты для Xiaomi BE7000 на QWRT: анализ трафика и PCAP, настройка VPN и лаборатория Wi-Fi 7 / MLO. |
+| [SnipeIT Inventory Agent](https://github.com/lststrdst/snipeit-inventory-agent-public) | PowerShell-агент для инвентаризации Windows и передачи данных в Snipe-IT. |
+| [SnipeIT Inventory Gateway](https://github.com/lststrdst/snipeit-inv-mailgateway-public) | Шлюз инвентаризации: HTTPS, резервная доставка через SMTP/IMAP, очередь и отчёты. |
 
 ## 🛠 Технологический стек
 
@@ -75,3 +84,10 @@ Kubernetes · Ansible · Helm
 ### Изучаю
 
 Ollama · Qwen · RAG · semantic search
+
+## 🐍 Активность на GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lststrdst/lststrdst/main/profile/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/lststrdst/lststrdst/main/profile/github-snake.svg" alt="Анимация змейки по графику вкладов на GitHub" width="100%" />
+</picture>
