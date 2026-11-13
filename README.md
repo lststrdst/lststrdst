@@ -23,6 +23,31 @@ Infrastructure / Platform Engineer с фокусом на backend-разрабо
 | [SnipeIT Inventory Agent](https://github.com/lststrdst/snipeit-inventory-agent-public) | PowerShell-агент для инвентаризации Windows и передачи данных в Snipe-IT. |
 | [SnipeIT Inventory Gateway](https://github.com/lststrdst/snipeit-inv-mailgateway-public) | Шлюз инвентаризации: HTTPS, резервная доставка через SMTP/IMAP, очередь и отчёты. |
 
+## 🎬 Короткие демо
+
+### NETSCOPE · от устройства к соединению
+
+**12 секунд:** наблюдение → устройство → фильтр → инспектор. Работающий интерфейс на искусственных данных, без подключения к роутеру.
+
+<a href="https://github.com/lststrdst/netscope-firmware/blob/main/docs/SCREENSHOTS.md">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/lststrdst/netscope-firmware/main/docs/screenshots/netscope-traffic-demo.jpg" />
+    <img src="https://raw.githubusercontent.com/lststrdst/lststrdst/main/profile/netscope-demo.gif" alt="Демо NETSCOPE: включение наблюдения, выбор устройства, фильтр и инспектор соединения" width="100%" />
+  </picture>
+</a>
+
+[Галерея и локальный стенд](https://github.com/lststrdst/netscope-firmware/blob/main/docs/SCREENSHOTS.md).
+
+### Talon · от запроса к проверяемому исправлению
+
+**16 секунд:** пример запроса и четырёх этапов работы Talon в Codex. Анимированная схема рабочего процесса.
+
+<a href="https://github.com/lststrdst/talon">
+  <img src="https://raw.githubusercontent.com/lststrdst/lststrdst/main/profile/talon-demo.svg" alt="Пример процесса Talon: запрос в Codex, воспроизведение, правка, регрессии, diff и отчёт" width="100%" />
+</a>
+
+[Как подключить и использовать](https://github.com/lststrdst/talon).
+
 ## 🛠 Технологический стек
 
 ### Инфраструктура и виртуализация
